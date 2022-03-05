@@ -1,3 +1,10 @@
+# Simple Pomodoro Timer
+
+Construi esse simples timer da técnica Pomodoro para prática/uso próprio. Espero que goste e utilize você também. Compartilhe com os amigos(as) também.
+Caso queira me ajudar contribuindo basta acessar esse link >>> https://www.buymeacoffee.com/judin
+
+<img src="./public/timer.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
